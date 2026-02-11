@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ian
 
-<!--
-**Rolyani/Rolyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems-oriented software engineer interested in how code, infrastructure, and products behave over time.
+I focus less on frameworks and more on architecture, constraints, and trade-offs.
 
-Here are some ideas to get you started:
+## What I work on
+- Microservice-based applications with clear domain boundaries
+- Kubernetes and GitOps workflows (homelab → production discipline)
+- Backend systems in Go and PHP (Laravel), with pragmatic frontends
+- Small, focused products designed to ship and survive contact with reality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How I think
+- Systems fail at the edges, not in the happy path
+- Operational simplicity beats theoretical elegance
+- If it isn't reproducible, it isn't finished
+- Learning is only real when it's exercised in production
+
+## Current focus
+- Running production-style workloads on a personal k3s cluster
+- Deepening Go fundamentals (interfaces, concurrency, HTTP clients)
+- Writing and documenting what I learn as *Lessons in Progress*
+
